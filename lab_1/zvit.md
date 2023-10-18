@@ -9,7 +9,7 @@
     1. Отримано наступні результати Serhii start programming at 2023-10-18 17:04:29.753405. Lviv is the best city!
     1. Навчились писати простий код
 
-![alt text](https://drive.google.com/file/d/1Je2lnIXMth92Dwi3glzflWURiL4Hc_-y/view?usp=sharing)
+![alt text](D:\Новая папка\Знімок екрана 2001-09-11 031148.png)
 > якщо графічних файлів багато то краще помістити їх у окрему папку, наприклад у мене це папка `pictures`. Уважно дивіться коли вставляєте URL - файл має бути представленим як `raw`. 
 
 ![alt text](https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg "ІТ Коледж")
