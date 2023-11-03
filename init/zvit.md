@@ -8,25 +8,25 @@
     2.Друга константа True
     3.Третя константа True
 -  Результаи завдань з 2 по останнє по черзі;
-    2)12.5 є рівним 12.5
-    <class '__main__.X'>
-    3)0
-    1
-    2
-    3
-    4
-    5
-    4)Сергій
-    Ребко
-    18
-    Студент який не знає куда себе подіти в житі і чим заробляти
-    5)guess number what i imagimne
-    7
-    харош
-    7)Yeah ! Your answer is : 1
-    This is always executed
-    Sorry ! You are dividing by zero
-    This is always executed
+   *2)12.5 є рівним 12.5  /n
+    <class '__main__.X'> /n
+    *3)0 /n
+    1 /n
+    2 /n
+    3 /n
+    4 /n
+    5 /n
+    *4)Сергій /n
+    Ребко /n
+    18 /n
+    Студент який не знає куда себе подіти в житі і чим заробляти /n
+    *5)guess number what i imagimne /n
+    7 /n
+    харош /n
+    *6)Yeah ! Your answer is : 1 /n
+    This is always executed /n
+    Sorry ! You are dividing by zero /n
+    This is always executed /n
 - Код до цієї не розберихи:
 ```python
 a = "Hello world"
