@@ -96,6 +96,7 @@ users = [User("Анна", 25), User("Петро", 30), User("Марія", 22), U
 sorted_users_by_name = sorted(users, key=lambda user: user.name)
 for user in sorted_users_by_name:
     print(f"{user.name}, {user.age} років")
+```
 
     ### Висновок: 
 - написав кучу коду в якому тяжко буде розібратися 
