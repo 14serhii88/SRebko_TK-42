@@ -103,6 +103,60 @@ sorted_users_by_name = sorted(users, key=lambda user: user.name)
 for user in sorted_users_by_name:
     print(f"{user.name}, {user.age} років")
 ```
+    ## Код який мені видав чат GPT:
+-Завдання з циклами
+
+```python
+1.
+fruits = ["яблуко", "груша", "апельсин", "банан"]
+for fruit in fruits:
+    print(f"Я люблю {fruit}.")
+2.
+n = 5
+fact = 1
+while n > 0:
+    fact *= n
+    n -= 1
+print(f"Факторіал: {fact}")
+
+3.
+
+for i in range(1, 6):
+    print(i)
+```
+- Завдання з if-else
+```python
+1.
+age = 25
+if age >= 18:
+    print("Ви повнолітні.")
+else:
+    print("Ви неповнолітні.")
+2.
+grade = 85
+if grade >= 90:
+    print("Відмінно!")
+elif grade >= 70:
+    print("Добре.")
+elif grade >= 50:
+    print("Задовільно.")
+else:
+    print("Не задовільно.")
+
+```
+- Конструкція try->except->finally
+```python
+try:
+    # Спробуйте виконати діління на нуль, що спричинить помилку
+    result = 5 / 0
+except ZeroDivisionError as e:
+    # Обробити помилку ділення на нуль
+    print(f"Помилка: {e}")
+finally:
+    # Код, який виконається навіть у випадку помилки
+    print("Цей код завжди виконається, навіть після помилки.")
+
+```
 
     ### Висновок: 
 - написав кучу коду в якому тяжко буде розібратися 
