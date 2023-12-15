@@ -4,10 +4,10 @@
 ---
 ### Виконання роботи
 -  Результати виконання завдання 1;
-![alt text](file:///D:/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/123.png)
+![alt text](https://i.imgur.com/aO544JC.png)
             
 
-![alt text](file:///D:/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/%D1%84%D1%8B.png)
+![alt text](https://imgur.com/viFtcUp)
 
 ### Висновок: 
 
@@ -16,7 +16,7 @@
 -  
 -  
 -  
--  т
+-  
 -  
 -  
 -  
