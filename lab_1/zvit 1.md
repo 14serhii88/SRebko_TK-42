@@ -7,7 +7,7 @@
 ![alt text](https://i.imgur.com/aO544JC.png)
             
 
-![alt text](https://imgur.com/viFtcUp)
+![alt text](https://i.imgur.com/aO544JC.png)
 
 ### Висновок: 
 
