@@ -1,24 +1,5 @@
-title: SITE BY SERHII REBKO
-description: Show my skills 
-theme:
-  name: Еффект паралаксу 0_0
-  version: 1.0.0
-
-
-title: Тест сайта із паралаксом
-description: "Пробую навчатися та создавати красиві дизайні(в мене не получиться)."
-
-
-menu:
-  - title: Головна
-    url: /
-
-  - title: Про мене
-    url: /about
-
-  - title: Проекти
-    url: /projects
-
-parallax:
-  enabled: true
-  speed: 0.5 
+title: Hacker theme
+description: Hacker is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-hacker
