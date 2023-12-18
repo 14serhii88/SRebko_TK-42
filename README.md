@@ -1,6 +1,15 @@
+# Дота 2: Карта успіху
 
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-hacker.svg)](https://badge.fury.io/rb/jekyll-theme-hacker)
+> Вітаю у світі битв Дота 2! Тут кожен коміт - це своєрідний раунд, а в тобі ховається герой, що прокачується разом із твоїм проєктом.
 
-*Hacker is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/hacker), or even [use it today](#usage).*
+## 🏆 Герої проєкту
 
-![Thumbnail of Hacker](thumbnail.png)
+### Crystal Maiden (README.md)
+
+Crystal Maiden - навчальний герой. Її завдання - забезпечити зрозумілість та легкість розуміння для користувачів. Додає нові розділи, ілюстрації та приклади коду.
+
+```markdown
+## Використання
+
+1. Запустіть `npm install`.
+2. Використовуйте команду `npm start` для запуску проєкту.

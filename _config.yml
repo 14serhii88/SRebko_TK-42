@@ -1,5 +1,5 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-hacker
+title: Dota 2 theme
+anti_mage:
+  minimal_mode: true
+  remove_unused_features: true
+  optimize_performance: true
