@@ -1,2 +1,2 @@
 
-![Thumbnail of Hacker](dota2.jpg)
+![Thumbnail of Hacker](cat.jpg)
