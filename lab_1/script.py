@@ -26,6 +26,12 @@ class MyName:
         """Instance method
         """
         return f"{self.name}@itcollege.lviv.ua"
+      
+    def count_letters(self):
+        """Instance method
+        return: повертає кількість букв в імені
+        """
+        return len(self.name) if self.name else 0
 
     @classmethod
     def anonymous_user(cls):
@@ -34,7 +40,7 @@ class MyName:
         return cls("Serhii")
     
     @staticmethod
-    def say_hello(message="Hello to everyone!"):
+    def say_hello(message="Добрий день еврібаді"):
         """Static method
         """
         return f"You say: {message}"
