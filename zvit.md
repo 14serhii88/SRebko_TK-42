@@ -40,3 +40,4 @@ print(f"{name} start programming at {datetime.now()}. {location} is the best cit
 -  хайповий, не треба на пари заходити і пояснювати що де і куда;
 -  бажаю щастя, здоровья, і всьо хорошого, з др;
 ---
+ы
