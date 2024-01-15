@@ -6,3 +6,10 @@ length = len(my_list)
 
 ya_kruriy()
 print("Довжина списку:", length)
+
+
+number = -10
+absolute_value = abs(number)
+
+print("Число:", number)
+print("Абсолютне значення:", absolute_value)
