@@ -1,10 +1,10 @@
-def ya_kruriy():
+def ya_krutiy():
     print("я здав екзамен")
 
 my_list = [1, 2, 3, 4, 5]
 length = len(my_list)
 
-ya_kruriy()
+ya_krutiy()
 print("Довжина списку:", length)
 
 
